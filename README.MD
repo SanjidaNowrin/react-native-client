@@ -1,21 +1,19 @@
-# Full Stack News App With React Native and Node JS
+# News App
 
 ## Introduction
 
-This is a full stack news app project created for YouTube tutorial by [non-degree programmer](https://www.youtube.com/channel/UCiTUxayvzwCn9qStZYK07zg). To run this project first you need to setup your [backend-api](https://github.com/ndpniraj/node-js-news-app-backend).
+This is a full stack news react app project.[client-link](https://github.com/SanjidaNowrin/react-native-client).[backend-link](https://github.com/SanjidaNowrin/react-native-news-server)
 
-![Project Image One](./app/screen-shots/sc-1.png)
-![Project Image Two](./app/screen-shots/sc-2.png)
-![Project Image Three](./app/screen-shots/sc-3.png)
+## Description
 
-## How to run this project
+### . Using this app anyone can get Breaking,Political,Tech,Entertainment related news.
 
-- First clone or download [backend-api](https://github.com/ndpniraj/node-js-news-app-backend)
-- Second clone or download [react-native-news-app](https://github.com/ndpniraj/react-native-news-app)
-- Do npm install on both of this project.
-- After change the IP address on the backend-api, also you can watch [this video](https://www.youtube.com/watch?v=JrUoMfBouww).
+### . Their is an option to search the news.
 
-If you want to see how you can make this project on your own then you can whtch these video series.
+### . Users can view the news by searching on the topic of their choice.
 
-- Creating Backend API with Node JS [YouTube](https://www.youtube.com/watch?v=FljcYOOaf7s&list=PLaAoUJDWH9Wrnp5VbwZlH4rR1F5CHGQLL).
-- Creating Front End With React Native [YouTube](https://www.youtube.com/watch?v=Q_Sk6YL_eh4&list=PLaAoUJDWH9WoYJY52F52Erq_GJIa4hc3e).
+### . Users can read the details of that news by clicking on desire news.
+
+### . Users can see all the news by clicking on view more option.
+
+### . The user will be able to see the suggested news according to the search on the topic.
